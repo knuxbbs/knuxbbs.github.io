@@ -20,5 +20,14 @@
       <description>Teste</description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>http://knuxbbs.github.io/posts/my-second-post/</link>
+      <pubDate>Sun, 12 Nov 2017 00:32:22 -0300</pubDate>
+      
+      <guid>http://knuxbbs.github.io/posts/my-second-post/</guid>
+      <description>Teste 2</description>
+    </item>
+    
   </channel>
 </rss>
