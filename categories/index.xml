@@ -4,11 +4,8 @@
     <title>Categories on açúcares sintáticos</title>
     <link>https://knuxbbs.github.io/categories/</link>
     <description>Recent content in Categories on açúcares sintáticos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
-    
-	<atom:link href="https://knuxbbs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://knuxbbs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
